@@ -1,0 +1,37 @@
+Sun Aug 23 20:55:56 2026  Msieve v. 1.53 (SVN 1005)
+Sun Aug 23 20:55:56 2026  random seeds: 558726c0 c753d290
+Sun Aug 23 20:55:56 2026  factoring 11527988776525910565603990233311847994998031808949923267471 (59 digits)
+Sun Aug 23 20:55:56 2026  searching for 15-digit factors
+Sun Aug 23 20:55:56 2026  commencing quadratic sieve (59-digit input)
+Sun Aug 23 20:55:56 2026  using multiplier of 1
+Sun Aug 23 20:55:56 2026  using generic 32kb sieve core
+Sun Aug 23 20:55:56 2026  sieve interval: 4 blocks of size 32768
+Sun Aug 23 20:55:56 2026  processing polynomials in batches of 51
+Sun Aug 23 20:55:56 2026  using a sieve bound of 50119 (2588 primes)
+Sun Aug 23 20:55:56 2026  using large prime bound of 2305474 (21 bits)
+Sun Aug 23 20:55:56 2026  using trial factoring cutoff of 21 bits
+Sun Aug 23 20:55:56 2026  polynomial 'A' values have 7 factors
+Sun Aug 23 20:55:58 2026  3018 relations (1430 full + 1588 combined from 12392 partial), need 2684
+Sun Aug 23 20:55:58 2026  begin with 13822 relations
+Sun Aug 23 20:55:58 2026  reduce to 4375 relations in 2 passes
+Sun Aug 23 20:55:58 2026  attempting to read 4375 relations
+Sun Aug 23 20:55:58 2026  recovered 4375 relations
+Sun Aug 23 20:55:58 2026  recovered 3813 polynomials
+Sun Aug 23 20:55:58 2026  attempting to build 3018 cycles
+Sun Aug 23 20:55:58 2026  found 3018 cycles in 1 passes
+Sun Aug 23 20:55:58 2026  distribution of cycle lengths:
+Sun Aug 23 20:55:58 2026     length 1 : 1430
+Sun Aug 23 20:55:58 2026     length 2 : 1588
+Sun Aug 23 20:55:58 2026  largest cycle: 2 relations
+Sun Aug 23 20:55:58 2026  matrix is 2588 x 3018 (0.4 MB) with weight 76628 (25.39/col)
+Sun Aug 23 20:55:58 2026  sparse part has weight 76628 (25.39/col)
+Sun Aug 23 20:55:58 2026  filtering completed in 4 passes
+Sun Aug 23 20:55:58 2026  matrix is 2455 x 2519 (0.3 MB) with weight 60807 (24.14/col)
+Sun Aug 23 20:55:58 2026  sparse part has weight 60807 (24.14/col)
+Sun Aug 23 20:55:58 2026  commencing Lanczos iteration
+Sun Aug 23 20:55:58 2026  memory use: 0.3 MB
+Sun Aug 23 20:55:58 2026  lanczos halted after 40 iterations (dim = 2452)
+Sun Aug 23 20:55:58 2026  recovered 63 nontrivial dependencies
+Sun Aug 23 20:55:58 2026  p24 factor: 104838920540664910055387
+Sun Aug 23 20:55:58 2026  p36 factor: 109959056398853662627796512676023133
+Sun Aug 23 20:55:58 2026  elapsed time 00:00:02
